@@ -6,7 +6,7 @@ pipeline {
         sh '''#!/bin/bash
 npm install
 npm i -g eslint
-eslint --fix'''
+npx eslint --fix'''
       }
     }
 
