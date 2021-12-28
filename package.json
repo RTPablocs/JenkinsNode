@@ -1,0 +1,21 @@
+{
+  "name": "actions_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
